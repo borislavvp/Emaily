@@ -1,0 +1,20 @@
+.modal {
+  background: rgba($color: #000000, $alpha: 0.5);
+  color: white;
+  max-width: 30rem;
+  outline: none;
+  padding: 50px;
+  text-align: center;
+  }
+
+.modal__title {
+  margin: 0 0 10px 0;
+  font-size: 1.2rem;
+}
+
+.modal__body {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0 0 10px 0;
+  word-break: break-all;
+}
